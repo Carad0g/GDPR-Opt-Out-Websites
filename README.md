@@ -14,7 +14,7 @@ Some notes:
 ---
 
 Website | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notes
---- | --- | ---
+:--- | :--- | :---
 http://www.youronlinechoices.com/ | Mass opt-out |  Click "Your Ad Choices". Once trackers have been loaded, scroll down and on the left hand side you'll see a red and green box, click the red box to opt out of all trackers. It may take a few minutes to complete.
 http://optout.aboutads.info/?c=2#!/ | Mass opt-out | Click on the "opt out all" at the bottom of the page.
 https://guce.oath.com/consent | Mass opt-out | Click "manage options" bottom right. Click "Manage" top right of the box. Click the "Show" link after "See and customise which partners can use your data". "IAB Partners" will be selected by default, click "Select all" to turn off (turns grey). Click "Other Partners" and "Select all". Finally, click "Done" -> "Done" -> "OK".
