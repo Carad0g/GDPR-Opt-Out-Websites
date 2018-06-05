@@ -1,4 +1,4 @@
-# List of GDPR Out Out Websites
+# List of GDPR Opt Out Websites
 ## A list of websites that allow you to opt-out of ads and trackers.
 
 **Note 1:** If you have an blocker of other cookie/script blocker, ensure you "trust" the opt out pages below otherwise the cookies can't be written.
