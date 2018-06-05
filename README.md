@@ -3,7 +3,7 @@
 
 Some notes:
 
-* If you have an blocker of other cookie/script blocker (e.g., Ghostery. no-script etc.), ensure you "trust" the opt-out pages below otherwise the cookies can't be written.
+* If you have a blocker or other cookie/script blocker (e.g., Ghostery. no-script etc.), ensure you "trust" the opt-out pages below otherwise the cookies can't be written.
 
 * These opt-outs are "per browser" and "per device", if you use more than device, you have to repeat this process. If you use more than one browser, this has to be done on each browser. If you then "kill/delete" your cookies, you'll have to re-run this process as all adverts/tracking cookies are *always* on by default hence you must "opt-out" manually [*sigh*].
 
